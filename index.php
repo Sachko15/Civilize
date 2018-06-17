@@ -1,0 +1,398 @@
+<!DOCTYPE HTML>
+<!--
+	Dimension by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Древните Цивилизации</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<link rel="icon" href="images/favico.ico" type="image/gif" sizes="16x16">
+		<link rel="stylesheet" type="text/css" href="main.css">
+		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
+		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+		<meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+        <meta name="description" content="Fullscreen Background Image Slideshow with CSS3 - A Css-only fullscreen background image slideshow" />
+        <meta name="keywords" content="css3, css-only, fullscreen, background, slideshow, images, content" />
+        <meta name="author" content="Codrops" />
+        <link rel="shortcut icon" href="../favicon.ico"> 
+        <link rel="stylesheet" type="text/css" href="css/demo.css" />
+        <link rel="stylesheet" type="text/css" href="css/style2.css" />
+		<script type="text/javascript" src="js/modernizr.custom.86080.js"></script>
+	</head>
+	<body>
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header">
+						<div class="logo">
+							<a href="#main"><img src="images/logo.png" width="97px" height="96px"></a>
+						</div>
+						<div class="content">
+							<div class="inner">
+								<h1>Древните цивилизации</h1>
+								<p>Разберете нещо за древните цивилизации.... или някой да измисли накъкъв текст!</p>
+							</div>
+						</div>
+						<nav>
+							<ul>
+								<li><a href="#intro">Въведение</a></li>
+								<div class="dropdown">
+  								<button onclick="myFunction()" class="dropbtn">Цивилизации</button>
+  								<div id="myDropdown" class="dropdown-content">
+   								 <a href="#egypt">Древен Египет</a>
+    								<a href="#greek">Древна Гърция</a>
+    									<a href="#may">Маите</a>
+  												</div>
+								</div>
+								<li><a href="#about">За нас</a></li>
+								<li><a href="#contact">Свържете се с нас!</a></li>
+								<!--<li><a href="#elements">Elements</a></li>-->
+							</ul>
+						</nav>
+					</header>
+
+				<!-- Main -->
+					<div id="main">
+
+						<!-- Intro -->
+							<article id="intro">
+								<h2 id="hIntro">Въведение</h2>
+								<span class="image main"><img src="images/front.jpg" alt="" /></span>
+								<p><!--<a href="#work">awesome work</a>--></p>
+								<p><strong>С</strong> този сайт ще се обогати вашето знание за древните цивилизации. Надяваме се да Ви помогнем да научете нещо ново!</p>
+							</article>
+
+						<!-- Work -->
+							<article id="work">
+								<h2 id="hWork">Work</h2>
+								<span class="image main"><img src="images/pic02.jpg" alt="" /></span>
+								<p>Adipiscing magna sed dolor elit. Praesent eleifend dignissim arcu, at eleifend sapien imperdiet ac. Aliquam erat volutpat. Praesent urna nisi, fringila lorem et vehicula lacinia quam. Integer sollicitudin mauris nec lorem luctus ultrices.</p>
+								<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet feugiat tempus.</p>
+							</article>
+
+						<!-- About -->
+							<article id="about">
+								<h2 id="hAbout">За нас!</h2>
+								<div id="per1">
+								<img src="https://scontent-sof1-1.xx.fbcdn.net/v/t1.0-1/c50.50.620.620/s160x160/488214_150023608501940_1303904556_n.jpg?_nc_cat=0&oh=7a5e465826eaa029a5e85873db5749dd&oe=5BAB0D82" width="300px" height="300px" id="person1">
+								<h3>Александър Иванов</h3>
+								<p>Аз съм Сашо. Имам няколко хобита едното е да карам велосипед другото е да програмирам.</p>
+							</div>
+								<div id="per2">
+								<img src="https://scontent-sof1-1.xx.fbcdn.net/v/t1.0-1/p160x160/12049178_886244481425468_4967626856560330445_n.jpg?_nc_cat=0&oh=16a7aad677410829df0d4654a436d50d&oe=5BC508BD" width="300px" height="300px" id="person1">
+								<h3>Никола Узунов</h3>
+								<p>(**Information is missing**)</p>
+							</div>
+							</article>
+
+						<!-- Contact -->
+							<article id="contact">
+								<h2 id="hContact">Свържете с нас!</h2>
+								<div id="pers1">
+								<img src="https://scontent-sof1-1.xx.fbcdn.net/v/t1.0-1/c50.50.620.620/s160x160/488214_150023608501940_1303904556_n.jpg?_nc_cat=0&oh=7a5e465826eaa029a5e85873db5749dd&oe=5BAB0D82" width="300px" height="300px" id="persons1">
+								<h3>Александър</h3>
+								<p><strong>Изготвил сайта!</strong></p>
+								<a href="https://www.facebook.com/profile.php?id=100004829043545&ref=bookmarks" class="fab fa-facebook-square fa-2x" target="blank"></a>
+								<p>Gmail: sachko151@gmail.com</p>
+							</div>
+								<div id="pers2">
+								<img src="https://scontent-sof1-1.xx.fbcdn.net/v/t1.0-1/p160x160/12049178_886244481425468_4967626856560330445_n.jpg?_nc_cat=0&oh=16a7aad677410829df0d4654a436d50d&oe=5BC508BD" width="300px" height="300px" id="persons1">
+								<h3>Никола</h3>
+								<p><strong>Набрал текст и изготвил дизайн!</strong></p>
+								<a href="https://www.facebook.com/St00keKvoGledash" class="fab fa-facebook-square fa-2x" target="blank"></a>
+								<p>Gmail: uzunov03@gmail.com</p>
+							</div>
+							</article>
+							<!-- Egypt -->
+							<article id="egypt">
+								<h2 id="hEgypt">Древен Египет!</h2>
+								<img src="https://kids.nationalgeographic.com/content/dam/kids/photos/Countries/A-G/egypt-pyramids.adapt.945.1.jpg" width="700px" height="422px">
+								<p> <strong>Древен</strong> Египет е антична цивилизация в източната част на Северна Африка, по долното течение на река Нил на територията на днешната държава Египет.
+
+<br>Египетската цивилизация възниква около 3150 година пр.н.е.[1] с политическото обединение на Горен и Долен Египет при първия фараон.[2] Историята на Древен Египет се разделя на поредица от устойчиви царства, разделени от периоди на относителна нестабилност, наричани преходни периоди – Старото царство през ранната бронзова епоха, Средното царство през средната бронзова епоха и Новото царство през късната бронзова епоха. Египет достига апогея на своето могъщество при Новото царство, при управлението на XIX и XX династия, след което навлиза в период на бавен упадък. През последните столетия на Античността страната попада под властта на няколко последователни външни сили, а през 31 година пр.н.е. властта на фараоните е премахната и Египет става провинция на Римската република.[3]<br>
+
+<br>Успехът на древноегипетската цивилизация се дължи в значителна степен на нейната способност да се приспособи към условията в долината на река Нил</p>
+							</article>
+							<!-- Greek -->
+							<article id="greek">
+								<h2 id="hGreek">Древна Гърция!</h2>
+								<img src="https://www.insightvacations.com/-/media/images/tours/2018_19/europe/greece-and-eastern-med/treasuresofgreeceislands_i953_thumb01.jpg" width="700px" height="422px">
+								<p> <p id="greep"><strong>Древна</strong></p> Гърция или древногръцка цивилизация е период в историята на Гърция, но и на източното Средиземноморие, който започва след края на бронзовата епоха и преминава в елинистическа епоха след смъртта на Александър III Македонски (323 г. пр. Хр.). Политическите, философските и научните постижения на древните гърци са в основата на развитието на западната цивилизация[1], на съвременната демокрация[2] и на Олимпийските игри. Историците разглеждат наследството на Древна Гърция като основополагащо на съвременната култура[3][4][5] (на западната философия,[6] основните принципи на архитектурата, скулптурата, математиката, поезията[7]).
+
+<br>Древните гърци обитават територията на днешна Гърция на континента и островите, но също така и малоазийското крайбрежие на Егейско море (в днешна Турция), о-в Кипър, о-в Сицилия и южните части на Апенинския полуостров, както и отделни селища по бреговете на Средиземно и Черно море.</p>
+							</article>
+							<!-- Маи -->
+							<article id="may">
+								<h2 id="hMay">Маите</h2>
+								<img src="https://provaton.bg/wp-content/uploads/2018/03/%D0%BC%D0%B0%D0%B8.jpg" width="700px" height="422px">
+								<p><strong>Древните</strong> маи са били блестящи астрономи и математици, чиито ранни градове са живели в аграрна хармония със земята. Те са изградили градове с канали и хидропонни градини на древния полуостров Юкатан. Предполага се, че някои от майските глифове представляват електронни устройства за контролиране на насекоми, които устройства са излъчвали етерни вибрации, специфични за съответния вредител.
+
+<br>Едгар Кейси споменава за маите и тяхната технология в едно от своите тълкувания: Що се отнася до стила на строителство с каменни блокове, ние открихме, че той е наподобявал на голяма цилиндрична чаша (както бихме го нарекли днес), направена по такъв начин, че стоящият най-отгоре камък да централизира енергията, концентрираща се между основата на цилиндъра и този най-горен камък. Архивите за начините на строителство могат да се намерят на три места на земята, които са там и днес: в потъналата част на Атлантида, където все още предстои да бъде открита част от храмовете, намиращи се под водораслите на вековна океанска вода близо до известното като Бимини място до крайбрежието на Флорида; в архивите на храм в Египет; и в архивите в Юкатан, Америка, където се намират в момента тези камъни (за които те знаят толкова малко!).
+
+<br>Смята се, че някъде в района на маите се намира древната Зала на Архивите, вероятно под пирамиден комплекс, в подземен тунел и мрежа от помещения. Според някои източници това хранилище с древно познание се съхранява в кварцови кристали с изключително високо качество, които могат да поберат голямо количество информация – подобно на съвременните компактен дискове.</p>
+							</article>
+
+						<!-- Elements -->
+							<article id="elements">
+								<h2 class="major">Elements</h2>
+
+								<section>
+									<h3 class="major">Text</h3>
+									<p>This is <b>bold</b> and this is <strong>strong</strong>. This is <i>italic</i> and this is <em>emphasized</em>.
+									This is <sup>superscript</sup> text and this is <sub>subscript</sub> text.
+									This is <u>underlined</u> and this is code: <code>for (;;) { ... }</code>. Finally, <a href="#">this is a link</a>.</p>
+									<hr />
+									<h2>Heading Level 2</h2>
+									<h3>Heading Level 3</h3>
+									<h4>Heading Level 4</h4>
+									<h5>Heading Level 5</h5>
+									<h6>Heading Level 6</h6>
+									<hr />
+									<h4>Blockquote</h4>
+									<blockquote>Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan faucibus. Vestibulum ante ipsum primis in faucibus lorem ipsum dolor sit amet nullam adipiscing eu felis.</blockquote>
+									<h4>Preformatted</h4>
+									<pre><code>i = 0;
+
+while (!deck.isInOrder()) {
+    print 'Iteration ' + i;
+    deck.shuffle();
+    i++;
+}
+
+print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
+								</section>
+
+								<section>
+									<h3 class="major">Lists</h3>
+
+									<h4>Unordered</h4>
+									<ul>
+										<li>Dolor pulvinar etiam.</li>
+										<li>Sagittis adipiscing.</li>
+										<li>Felis enim feugiat.</li>
+									</ul>
+
+									<h4>Alternate</h4>
+									<ul class="alt">
+										<li>Dolor pulvinar etiam.</li>
+										<li>Sagittis adipiscing.</li>
+										<li>Felis enim feugiat.</li>
+									</ul>
+
+									<h4>Ordered</h4>
+									<ol>
+										<li>Dolor pulvinar etiam.</li>
+										<li>Etiam vel felis viverra.</li>
+										<li>Felis enim feugiat.</li>
+										<li>Dolor pulvinar etiam.</li>
+										<li>Etiam vel felis lorem.</li>
+										<li>Felis enim et feugiat.</li>
+									</ol>
+									<h4>Icons</h4>
+									<ul class="icons">
+										<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+										<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+										<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+										<li><a href="#" class="icon fa-github"><span class="label">Github</span></a></li>
+									</ul>
+
+									<h4>Actions</h4>
+									<ul class="actions">
+										<li><a href="#" class="button special">Default</a></li>
+										<li><a href="#" class="button">Default</a></li>
+									</ul>
+									<ul class="actions vertical">
+										<li><a href="#" class="button special">Default</a></li>
+										<li><a href="#" class="button">Default</a></li>
+									</ul>
+								</section>
+
+								<section>
+									<h3 class="major">Table</h3>
+									<h4>Default</h4>
+									<div class="table-wrapper">
+										<table>
+											<thead>
+												<tr>
+													<th>Name</th>
+													<th>Description</th>
+													<th>Price</th>
+												</tr>
+											</thead>
+											<tbody>
+												<tr>
+													<td>Item One</td>
+													<td>Ante turpis integer aliquet porttitor.</td>
+													<td>29.99</td>
+												</tr>
+												<tr>
+													<td>Item Two</td>
+													<td>Vis ac commodo adipiscing arcu aliquet.</td>
+													<td>19.99</td>
+												</tr>
+												<tr>
+													<td>Item Three</td>
+													<td> Morbi faucibus arcu accumsan lorem.</td>
+													<td>29.99</td>
+												</tr>
+												<tr>
+													<td>Item Four</td>
+													<td>Vitae integer tempus condimentum.</td>
+													<td>19.99</td>
+												</tr>
+												<tr>
+													<td>Item Five</td>
+													<td>Ante turpis integer aliquet porttitor.</td>
+													<td>29.99</td>
+												</tr>
+											</tbody>
+											<tfoot>
+												<tr>
+													<td colspan="2"></td>
+													<td>100.00</td>
+												</tr>
+											</tfoot>
+										</table>
+									</div>
+
+									<h4>Alternate</h4>
+									<div class="table-wrapper">
+										<table class="alt">
+											<thead>
+												<tr>
+													<th>Name</th>
+													<th>Description</th>
+													<th>Price</th>
+												</tr>
+											</thead>
+											<tbody>
+												<tr>
+													<td>Item One</td>
+													<td>Ante turpis integer aliquet porttitor.</td>
+													<td>29.99</td>
+												</tr>
+												<tr>
+													<td>Item Two</td>
+													<td>Vis ac commodo adipiscing arcu aliquet.</td>
+													<td>19.99</td>
+												</tr>
+												<tr>
+													<td>Item Three</td>
+													<td> Morbi faucibus arcu accumsan lorem.</td>
+													<td>29.99</td>
+												</tr>
+												<tr>
+													<td>Item Four</td>
+													<td>Vitae integer tempus condimentum.</td>
+													<td>19.99</td>
+												</tr>
+												<tr>
+													<td>Item Five</td>
+													<td>Ante turpis integer aliquet porttitor.</td>
+													<td>29.99</td>
+												</tr>
+											</tbody>
+											<tfoot>
+												<tr>
+													<td colspan="2"></td>
+													<td>100.00</td>
+												</tr>
+											</tfoot>
+										</table>
+									</div>
+								</section>
+
+								<section>
+									<h3 class="major">Buttons</h3>
+									<ul class="actions">
+										<li><a href="#" class="button special">Special</a></li>
+										<li><a href="#" class="button">Default</a></li>
+									</ul>
+									<ul class="actions">
+										<li><a href="#" class="button">Default</a></li>
+										<li><a href="#" class="button small">Small</a></li>
+									</ul>
+									<ul class="actions">
+										<li><a href="#" class="button special icon fa-download">Icon</a></li>
+										<li><a href="#" class="button icon fa-download">Icon</a></li>
+									</ul>
+									<ul class="actions">
+										<li><span class="button special disabled">Disabled</span></li>
+										<li><span class="button disabled">Disabled</span></li>
+									</ul>
+								</section>
+
+								<section>
+									<h3 class="major">Form</h3>
+									<form method="post" action="send_form_email.php" name="contactform">
+										<div class="field half first">
+											<label for="demo-name">Name</label>
+											<input type="text" name="name" id="demo-name" value="" >
+										</div>
+										<div class="field half">
+											<label for="demo-email">Email</label>
+											<input type="email" name="email" id="demo-email" value="">
+										</div>
+										
+									</form>
+
+								</section>
+
+							</article>
+
+					</div>
+
+				<!-- Footer -->
+					<footer id="footer">
+					</footer>
+
+			</div>
+
+		<!-- BG -->
+			<!--<div id="bg"></div>-->
+			<ul class="cb-slideshow">
+            <li><span>Image 01</span><div></div></li>
+            <li><span>Image 02</span><div></div></li>
+            <li><span>Image 03</span><div></div></li>
+        </ul>
+        <div class="container">
+            <!-- Codrops top bar -->
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+			<script type="text/javascript">
+				/* When the user clicks on the button, 
+toggle between hiding and showing the dropdown content */
+function myFunction() {
+    document.getElementById("myDropdown").classList.toggle("show");
+}
+
+// Close the dropdown menu if the user clicks outside of it
+window.onclick = function(event) {
+  if (!event.target.matches('.dropbtn')) {
+
+    var dropdowns = document.getElementsByClassName("dropdown-content");
+    var i;
+    for (i = 0; i < dropdowns.length; i++) {
+      var openDropdown = dropdowns[i];
+      if (openDropdown.classList.contains('show')) {
+        openDropdown.classList.remove('show');
+      }
+    }
+  }
+}
+			</script>
+	</body>
+</html>
