@@ -1,7 +1,7 @@
 .logo img {
 	position: relative;
-	top: 10px;
-	left: 6px;
+	top: 1%;
+	left: 2%;
 }
 #person1 {
 	border-radius: 80%;
@@ -18,6 +18,12 @@
 	width: 40%;
 	top: 5%;
 }
+#pers1 a{
+	color: #FFF;
+}
+#pers2 a{
+	color: #FFF;
+}
 #per2 {
 	text-align: center;
 	width: 40%;
@@ -25,6 +31,15 @@
 	left: 60%;
 	top: -68%;
 }
+@media screen and (max-width: 736px) {
+	#per2 {
+	text-align: center;
+	width: 40%;
+	position: relative;
+	left: 60%;
+	top: -83%;
+}
+		}
 #about {
 	height: 800px;
 }
