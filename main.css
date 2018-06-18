@@ -5,24 +5,25 @@
 }
 #person1 {
 	border-radius: 80%;
+	width: 80%;
 }
 #person2 {
 	border-radius: 80%;
 	position: relative;
-	left: 100px;
+	left: 20%;
 }
 #per1 {
 	text-align: left;
 	position: relative;
-	width: 300px;
-	top: 95px;
+	width: 40%;
+	top: 5%;
 }
 #per2 {
 	text-align: center;
-	width: 300px;
+	width: 40%;
 	position: relative;
-	left: 400px;
-	top: -370px;
+	left: 60%;
+	top: -68%;
 }
 #about {
 	height: 800px;
@@ -72,33 +73,32 @@
 .show {display:block;}
 #persons1 {
 	border-radius: 80%;
+	width: 80%;
 }
 #persons2 {
 	border-radius: 80%;
 	position: relative;
-	left: 100px;
+	left: 20%;
 }
 #pers1 {
 	text-align: center;
-	width: 300px;
-	text-align: center;
 	position: relative;
-	width: 300px;
-	top: 95px;
+	width: 40%;
+	top: 5%;
 }
 #pers2 {
 	text-align: center;
-	width: 300px;
+	width: 40%;
 	position: relative;
-	left: 400px;
-	top: -370px;
+	left: 60%;
+	top: -65%;
 }
 #contact {
 	height: 800px;
 }
 #hIntro {
 	position: relative;
-	left: 250px;
+	left: 20%;
 	border-bottom: 1px solid #FFF;
 	width: 260px;
 	text-align: center;
@@ -171,4 +171,13 @@ nav ul{
 }
 #contact {
 	font-size: 20px;
+}
+#egypt img {
+	width: 100%;
+}
+#greek img {
+	width: 100%;
+}
+#may img {
+	width: 100%;
 }
