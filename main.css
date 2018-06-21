@@ -196,3 +196,12 @@ nav ul{
 #may img {
 	width: 100%;
 }
+#downl {
+	position: relative;
+	float: right;
+	color: #FFF;
+}
+#doc {
+	float: right;
+	color: #FFF;
+}
